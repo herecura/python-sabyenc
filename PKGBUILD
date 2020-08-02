@@ -1,9 +1,9 @@
 # Maintainer: Ben Ruijl <benruyl@gmail.com>
 
-pkgname=python2-sabyenc
+pkgname=python-sabyenc
 pkgver=4.0.2
 pkgrel=1
-pkgdesc="Python2 yEnc package optimized for use within SABnzbd"
+pkgdesc="Python yEnc package optimized for use within SABnzbd"
 url="https://github.com/sabnzbd/sabyenc"
 arch=('x86_64')
 license=("GPL")
